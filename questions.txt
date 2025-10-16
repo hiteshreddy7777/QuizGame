@@ -1,0 +1,5 @@
+Who invented Java?,James Gosling,Dennis Ritchie,Bjarne Stroustrup,a
+Which company owns Java?,Oracle,Microsoft,Google,a
+What does JVM stand for?,Java Virtual Machine,Java Visual Maker,Just Vector Model,a
+Which keyword is used to inherit a class?,extends,implements,super,a
+Java supports which primary programming paradigm?,Object-Oriented,Procedural,Functional,a
